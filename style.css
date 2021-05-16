@@ -1,0 +1,41 @@
+.jumbotron{
+padding-top: 5rem ;
+background-color: pink;
+
+
+}
+
+
+
+.progress{
+
+    height: 100px;
+}
+
+.progress:hover{
+
+    transform: scale(1.1);
+}
+
+img{
+    width: 350px;
+  height: 350px;
+  
+}
+
+img:hover{
+transform: scale(1.1);
+
+}
+
+section{
+
+    padding-top: 5rem;
+}
+
+a:hover{color: blueviolet;}
+
+
+ul:hover{
+    transform: scale(1.1);
+}
